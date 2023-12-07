@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "441497400253",
+    "project_id": "latestnews-9d718",
+    "storage_bucket": "latestnews-9d718.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441497400253:android:f954f5d820330c88cb98d4",
+        "android_client_info": {
+          "package_name": "com.example.latestnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441497400253-gqh03qp25ukr6n80o9vf795kjdmlaarv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhusIB9nGh76saVn-pTlDxmcfoNLPuGLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441497400253-gqh03qp25ukr6n80o9vf795kjdmlaarv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
